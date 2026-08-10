@@ -1,16 +1,39 @@
-## Hi there 👋
+# Meredith Smith
 
-<!--
-**MeredithClikkie/MeredithClikkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS in Data Analytics (Data Science Concentration)
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- (Power BI)
+- Machine Learning
+- Pandas
+- Scikit-Learn
+- (AWS)
 
-- 🔭 I’m currently working on a Masters in Data Analytics at WGU
-- 🌱 I’m currently learning MLFlow
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Customer Churn Prediction
+Predicts customer attrition using machine learning.
+
+### Retail Sales Dashboard
+Interactive Power BI dashboard built from SQL data.
+
+### Data Engineering Pipeline
+ETL pipeline using Python and cloud services.
+
+## Contact
+LinkedIn: ...
+Email: ...
+
+##### Portfolio Layout
+
+GitHub
+│
+├── analytics-dashboard-project
+├── customer-churn-prediction
+├── data-engineering-pipeline
+└── profile-readme
+
+
+
